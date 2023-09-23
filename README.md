@@ -1,3 +1,3 @@
 # input_processing_output
-## Python
+Python
 Basic computer science 101 input, processing, and output projects
